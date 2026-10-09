@@ -1,0 +1,9 @@
+node_modules/
+dist/
+draftroom.sqlite
+draftroom.sqlite-shm
+draftroom.sqlite-wal
+.env
+.env.*
+!.env.example
+
